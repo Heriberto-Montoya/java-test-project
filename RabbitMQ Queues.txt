@@ -1,0 +1,40 @@
+RabbitMQ Queues:
+
+*payments_sent
+*payments_update
+*payments_processed
+
+RabbitMQ Messages
+
+* payments_sent
+{
+    "concept": "",
+    "email_receiver": "",
+    "id": 1,
+    "mount": 100,
+    "number_products": 1,
+    "receiver": "",
+    "sender": "",
+    "status": ""
+}
+	
+*payments_update
+{
+    "concept": "",
+    "email_receiver": "",
+    "id": 1,
+    "mount": 100,
+    "status": ""
+}
+
+*payments_processed
+{
+    "concept": "",
+    "email_receiver": "",
+    "id": 1,
+    "mount": 100,
+    "number_products": 1,
+    "receiver": "",
+    "sender": "",
+    "status": ""
+}
