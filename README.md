@@ -12,7 +12,7 @@ A list of technologies used within the project:
 ***
 A little intro about the installation.
 ```
-$ git clone https://github.com/ogtslag/java-test-project.git
+$ git clone https://github.com/Heriberto-Montoya/java-test-project.git
 $ cd java-test-project
 $ docker-compose up -d
 
